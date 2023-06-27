@@ -38,7 +38,9 @@ $r['info']= array();
       # code...
     }
     else {
+      
       $response['key']=$row2['value'];
+      break;
     }
 
   }

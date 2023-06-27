@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "ytapi";
+$password = "Palang66";
+$dbname = "ytapinew";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
